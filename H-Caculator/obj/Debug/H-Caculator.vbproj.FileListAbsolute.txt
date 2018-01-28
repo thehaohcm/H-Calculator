@@ -1,0 +1,19 @@
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\bin\Debug\H-Caculator.exe
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\bin\Debug\H-Caculator.pdb
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\bin\Debug\H-Caculator.xml
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H_Caculator.Form1.resources
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H_Caculator.Resources.resources
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H-Caculator.vbproj.GenerateResource.Cache
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H-Caculator.exe
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H-Caculator.xml
+C:\Users\Nguyen The Hao\AppData\Local\Temporary Projects\H-Caculator\obj\Debug\H-Caculator.pdb
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H-Caculator.vbproj.GenerateResource.Cache
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\bin\Debug\H-Caculator.exe
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\bin\Debug\H-Caculator.pdb
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\bin\Debug\H-Caculator.xml
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H_Caculator.AboutBox1.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H_Caculator.Form1.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H_Caculator.Resources.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H-Caculator.exe
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H-Caculator.xml
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Debug\H-Caculator.pdb

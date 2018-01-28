@@ -1,0 +1,12 @@
+C:\Users\Nguyen The Hao\Desktop\H-Caculator.exe
+C:\Users\Nguyen The Hao\Desktop\H-Caculator.pdb
+C:\Users\Nguyen The Hao\Desktop\H-Caculator.xml
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H_Caculator.AboutBox1.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H_Caculator.Form1.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H_Caculator.Resources.resources
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H-Caculator.vbproj.GenerateResource.Cache
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H-Caculator.exe
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H-Caculator.xml
+C:\Users\Nguyen The Hao\Documents\Visual Studio 2012\Projects\H-Caculator\H-Caculator\obj\Release\H-Caculator.pdb
+C:\Users\Nguyen The Hao\Desktop\H-Caculator.exe.CodeAnalysisLog.xml
+C:\Users\Nguyen The Hao\Desktop\H-Caculator.exe.lastcodeanalysissucceeded
